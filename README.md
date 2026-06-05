@@ -1,4 +1,4 @@
-# Flight Delay & Cancellation Dashboard (Power BI Portfolio Project)
+# Flight Delay & Cancellation Dashboard (Power BI and SQL Project)
 
 This project demonstrates a complete data analytics pipeline starting from raw real-world flight data to professional visual dashboards using SQL Server and Power BI. It showcases data import, cleaning, optimization, transformation, and dynamic DAX-based visual reporting.
 

@@ -14,10 +14,9 @@ This project demonstrates a complete data analytics pipeline starting from raw r
 
 ## Tools Used
 
-- **SQL Server 2022** – For data import, cleaning, transformation
+- **SQL** – For data import, cleaning, transformation
 - **Power BI Desktop** – For data visualization and dashboard creation
 - **DAX (Data Analysis Expressions)** – For creating measures and calculated columns
-- **Windows 10 Pro** – Local development environment
 
 ---
 

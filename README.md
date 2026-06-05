@@ -108,12 +108,7 @@ Developed a complete data analysis pipeline using a real-world flight dataset. C
 
 ---
 
-## Contact
 
-For feedback or collaboration:
-
-- **Lochan Singhal**
-- **www.github.com/Analyst-Lochan**
 
 ---
 

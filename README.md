@@ -106,9 +106,6 @@ Developed a complete data analysis pipeline using a real-world flight dataset. C
 - Create geospatial maps for airport-to-airport routes
 - Add airline metadata for more filter options
 
----
-
-
 
 ---
 
